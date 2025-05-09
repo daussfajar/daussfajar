@@ -1,16 +1,40 @@
-## Hi there 👋
+## Hi there! 👋 I'm Fajar
 
-<!--
-**daussfajar/daussfajar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a passionate **Fullstack Developer** from Indonesia who enjoys building clean, efficient, and user-friendly web applications.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About Me
+
+- 🔭 I’m currently working on: **React-based dashboards** and **e-commerce platforms**
+- 🌱 I’m currently learning: **Next.js**, **TypeScript**, and exploring **Flutter**
+- 🛠️ Tech Stack:
+  - **Frontend:** React, Tailwind CSS, Bootstrap, Framer Motion
+  - **Backend:** PHP (CodeIgniter), Express.js
+  - **Database:** MySQL, PostgreSQL
+  - **Others:** Axios, Redux, Git, REST API, SweetAlert2
+
+---
+
+### 📈 GitHub Stats
+
+![Fajar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=daussfajar&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daussfajar&layout=compact&theme=radical)
+
+---
+
+### 📫 Let's Connect!
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/daussfajar/)
+- 🌐 [Portfolio Website](https://daussfajar.github.io/)
+- 📧 Email me: daussfajar28@email.com
+
+---
+
+### ✨ Fun Fact
+
+I love creating UIs that feel **snappy**, **intuitive**, and **accessible**. I also enjoy exploring new frameworks and contributing to open-source projects!
+
+---
+
+_Thanks for visiting!_
