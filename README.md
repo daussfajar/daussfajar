@@ -1,6 +1,6 @@
 ## Hi there! 👋 I'm Fajar
 
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/daussfajar&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23FFFFFF&title=visitors&edge_flat=false)
+![Profile views](https://visitor-badge.laobi.icu/badge?page_id=daussfajar.daussfajar&left_color=blue&right_color=green)
 
 Welcome to my GitHub profile! I'm a passionate **Fullstack Developer** from Indonesia who enjoys building clean, efficient, and user-friendly web applications.
 
@@ -22,7 +22,6 @@ Welcome to my GitHub profile! I'm a passionate **Fullstack Developer** from Indo
 
 ![Fajar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=daussfajar&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daussfajar&layout=compact&theme=radical)
-![trophy](https://github-profile-trophy.vercel.app/?username=daussfajar&theme=radical)
 ![GitHub Streak](https://streak-stats.demolab.com?user=daussfajar&theme=radical&hide_border=true)
 
 ---
