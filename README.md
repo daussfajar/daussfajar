@@ -22,7 +22,7 @@ Welcome to my GitHub profile! I'm a passionate **Fullstack Developer** from Indo
 
 ![Fajar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=daussfajar&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daussfajar&layout=compact&theme=radical)
-![GitHub Streak](https://streak-stats.demolab.com?user=daussfajar&theme=radical&hide_border=true)
+<!--![GitHub Streak](https://streak-stats.demolab.com?user=daussfajar&theme=radical&hide_border=true)-->
 
 ---
 
