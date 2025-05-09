@@ -1,6 +1,6 @@
 ## Hi there! 👋 I'm Fajar
 
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=daussfajar.daussfajar)
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/daussfajar&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23FFFFFF&title=visitors&edge_flat=false)
 
 Welcome to my GitHub profile! I'm a passionate **Fullstack Developer** from Indonesia who enjoys building clean, efficient, and user-friendly web applications.
 
