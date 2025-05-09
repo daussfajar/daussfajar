@@ -28,7 +28,7 @@ Welcome to my GitHub profile! I'm a passionate **Fullstack Developer** from Indo
 
 ### 📫 Let's Connect!
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/daussfajar/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/daussfajar28/)
 - 🌐 [Portfolio Website](https://daussfajar.github.io/)
 - 📧 Email me: daussfajar28@email.com
 
