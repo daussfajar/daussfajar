@@ -1,6 +1,6 @@
 ## Hi there! 👋 I'm Fajar
 
-![Profile views](https://visitor-badge.laobi.icu/badge?page_id=daussfajar.daussfajar&left_color=blue&right_color=green)
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=daussfajar.daussfajar)
 
 Welcome to my GitHub profile! I'm a passionate **Fullstack Developer** from Indonesia who enjoys building clean, efficient, and user-friendly web applications.
 
