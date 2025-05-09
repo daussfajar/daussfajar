@@ -1,5 +1,7 @@
 ## Hi there! 👋 I'm Fajar
 
+![Profile views](https://visitor-badge.laobi.icu/badge?page_id=daussfajar.daussfajar&left_color=blue&right_color=green)
+
 Welcome to my GitHub profile! I'm a passionate **Fullstack Developer** from Indonesia who enjoys building clean, efficient, and user-friendly web applications.
 
 ---
@@ -9,8 +11,8 @@ Welcome to my GitHub profile! I'm a passionate **Fullstack Developer** from Indo
 - 🔭 I’m currently working on: **Laravel Backend** for **General Affair Systems**
 - 🌱 I’m currently learning: **Python3**, **TypeScript**, and exploring **Golang**
 - 🛠️ Tech Stack:
-  - **Frontend:** React, Vue, Lynx, Tailwind CSS, Bootstrap, Framer Motion
-  - **Backend:** PHP (Laravel, Codeigniter), Express.js
+  - **Frontend:** Flutter, Angular, React, Vue, Lynx, Tailwind CSS, Bootstrap
+  - **Backend:** PHP (Laravel, Codeigniter), Springboot, Express.js
   - **Database:** MySQL, PostgreSQL, MongoDB, Sqlite
   - **Others:** Axios, Redux, Git, REST API, SweetAlert2
 
