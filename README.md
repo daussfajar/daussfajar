@@ -60,11 +60,20 @@ I'm a passionate **Fullstack Developer** from **Indonesia 🇮🇩** who enjoys 
 ## 📊 GitHub Stats
 
 <details>
-<summary>Click to expand</summary>
+<summary>📊 GitHub Stats (Click to expand)</summary>
 
-![Fajar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=daussfajar&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25)
+<br/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daussfajar&layout=compact&theme=radical)
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=daussfajar&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" alt="Fajar's GitHub Stats"/>
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daussfajar&layout=compact&theme=radical" alt="Top Languages"/>
+    </td>
+  </tr>
+</table>
 
 </details>
 
