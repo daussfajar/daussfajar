@@ -31,8 +31,6 @@ Welcome to my GitHub profile! I'm a passionate **Fullstack Developer** from Indo
 
 ---
 
-### 📈 GitHub Stats
-
 <details>
   <summary>:zap: GitHub Stats</summary>
 
