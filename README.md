@@ -84,7 +84,7 @@ I'm a passionate **Fullstack Developer** from **Indonesia 🇮🇩** who enjoys 
 ## ✨ Fun Fact
 
 I love creating UIs that feel **snappy**, **intuitive**, and **accessible**.  
-I'm also passionate about exploring new technologies and contributing to open-source projects.
+I'm also passionate about exploring new technologies.
 
 ---
 
