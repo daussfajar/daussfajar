@@ -13,9 +13,9 @@ I'm a passionate **Fullstack Developer** from **Indonesia 🇮🇩** who enjoys 
 - 🌱 Currently learning: **Python 3**, **TypeScript**, and exploring **Golang**
 - 🧰 Tech Stack:
   - **Frontend:** Flutter, Angular, React, Vue, Lynx, Tailwind CSS, Bootstrap  
-  - **Backend:** PHP (Laravel, CodeIgniter), Spring Boot, Express.js  
+  - **Backend:** PHP (Laravel, CodeIgniter), Go, Spring Boot, Express.js  
   - **Database:** MySQL, PostgreSQL, MongoDB, SQLite  
-  - **Others:** Axios, Redux, Git, REST API, SweetAlert2
+  - **Others:** Axios, Git, REST API
 
 ---
 
