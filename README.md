@@ -12,7 +12,7 @@ I'm a passionate **Fullstack Developer** from **Indonesia 🇮🇩** who enjoys 
 - 🔭 Currently working on: **Laravel Backend** for **General Affair Systems**
 - 🌱 Currently learning: **Python 3**, **TypeScript**, and exploring **Golang**
 - 🧰 Tech Stack:
-  - **Frontend:** Flutter, Angular, React, Vue, Lynx, Tailwind CSS, Bootstrap  
+  - **Frontend:** Flutter, Angular, React, Vue, Tailwind CSS, Bootstrap  
   - **Backend:** PHP (Laravel, CodeIgniter), Go, Spring Boot, Express.js  
   - **Database:** MySQL, PostgreSQL, MongoDB, SQLite  
   - **Others:** Axios, Git, REST API
