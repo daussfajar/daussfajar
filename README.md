@@ -65,7 +65,6 @@ I'm a passionate **Fullstack Developer** from **Indonesia 🇮🇩** who enjoys 
   <br/>
   
   <div style="display: flex; justify-content: space-between; align-items: flex-start; gap: 10px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=daussfajar&show_icons=true&hide_border=true&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" alt="Fajar's GitHub Stats" width="49%" align="top" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daussfajar&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="49%" align="top" />
   </div>
 
