@@ -57,21 +57,6 @@ I'm a passionate **Fullstack Developer** from **Indonesia 🇮🇩** who enjoys 
 
 ---
 
-## 📊 GitHub Stats
-
-<details>
-  <summary>📊 GitHub Stats (Click to expand)</summary>
-  
-  <br/>
-  
-  <div style="display: flex; justify-content: space-between; align-items: flex-start; gap: 10px;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daussfajar&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="49%" align="top" />
-  </div>
-
-</details>
-
----
-
 ## 📫 Let's Connect!
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/daussfajar28/)
