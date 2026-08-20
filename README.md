@@ -1,10 +1,10 @@
 <!-- ══════════════ HEADER ══════════════ -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Fajar%20Firdaus&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Fullstack%20Developer%20%7C%20Indonesia%20🇮🇩&descAlignY=55&descSize=18" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Fajar%20Ardiansyah&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Fullstack%20Developer%20%7C%20Indonesia&descAlignY=55&descSize=18" />
 
 <div align="center">
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=620&lines=Building+clean+%26+snappy+web+apps;Laravel+%7C+Go+%7C+NestJS+%7C+Next.js;Flutter+for+mobile+experiences;Always+learning+something+new+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=640&lines=Fullstack+Developer+based+in+Indonesia;Designing+and+shipping+production-grade+systems;Laravel+%7C+Go+%7C+NestJS+%7C+Next.js+%7C+Flutter;Focused+on+clean+architecture+and+great+UX" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -12,42 +12,42 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daussfajar28/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://daussfajar.github.io/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:daussfajar28@gmail.com)
-![Profile Views](https://komarev.com/ghpvc/?username=daussfajar&style=for-the-badge&color=36BCF7&label=PROFILE+VIEWS)
 
 </div>
 
 ---
 
-## 🧑‍💻 About Me
+## About Me
+
+I'm a fullstack developer from Indonesia who enjoys turning complex requirements into clean, maintainable systems. My work spans backend architecture and API design through to frontend interfaces that feel fast and intuitive to use.
 
 ```ts
 const fajar = {
-  role:      "Fullstack Developer",
-  location:  "Indonesia 🇮🇩",
-  working:   "Laravel backend for General Affair Systems",
-  learning:  ["Python 3", "TypeScript", "Golang"],
-  focus:     "UIs that feel snappy, intuitive, and accessible",
-  askMeAbout:["REST API", "Clean Architecture", "Docker", "Auth (JWT/Paseto)"],
-  funFact:   "I refactor for fun ☕",
+  role:       "Fullstack Developer",
+  location:   "Indonesia",
+  currently:  "Building Laravel backends for General Affair systems",
+  learning:   ["Python 3", "TypeScript", "Golang"],
+  principles: ["Readable over clever", "Simple over complete", "Ship, then refine"],
+  interests:  ["API design", "Clean architecture", "Databases", "DevOps"],
 };
 ```
 
 <details>
-<summary>📌 <b>More about me</b></summary>
+<summary><b>A bit more detail</b></summary>
 
 <br/>
 
-- 🔭 Lagi ngerjain **backend Laravel** untuk sistem General Affair
-- 🌱 Lagi belajar **Python 3**, **TypeScript**, dan explore **Golang**
-- 👯 Terbuka untuk kolaborasi project **open source** & **freelance**
-- 💬 Ngobrolin soal **API design**, **database modelling**, atau **DevOps** — gas!
-- ⚡ Fun fact: kopi > tidur, tapi tetep push commit tiap hari
+- **Currently working on** — Laravel backend services for General Affair systems
+- **Currently learning** — Python 3, TypeScript, and exploring Golang
+- **Open to** — open source collaboration and freelance engagements
+- **Happy to talk about** — API design, database modelling, authentication (JWT / Paseto), and deployment workflows
+- **What I care about** — interfaces that are snappy, intuitive, and accessible
 
 </details>
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -81,7 +81,7 @@ const fajar = {
 ![Gin](https://img.shields.io/badge/Gin-008ECF?style=for-the-badge&logo=gin&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 
-**Database & Infra**
+**Databases & Infrastructure**
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -96,53 +96,38 @@ const fajar = {
 
 ---
 
-## 📊 GitHub Stats
+## Words I Keep Coming Back To
 
-<div align="center">
+> **"The impediment to action advances action. What stands in the way becomes the way."**
+> <br/>— Marcus Aurelius, *Meditations*
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=daussfajar&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight&title_color=36BCF7&icon_color=36BCF7" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daussfajar&layout=compact&langs_count=8&hide_border=true&theme=tokyonight&title_color=36BCF7" />
+> **"Perfection is achieved, not when there is nothing more to add, but when there is nothing left to take away."**
+> <br/>— Antoine de Saint-Exupéry, *Terre des Hommes*
 
-<br/>
+> **"We are what we repeatedly do. Excellence, then, is not an act, but a habit."**
+> <br/>— Will Durant, *The Story of Philosophy*
 
-<img height="165" src="https://streak-stats.demolab.com?user=daussfajar&hide_border=true&theme=tokyonight&ring=36BCF7&fire=36BCF7&currStreakLabel=36BCF7" />
+> **"When we are no longer able to change a situation, we are challenged to change ourselves."**
+> <br/>— Viktor E. Frankl, *Man's Search for Meaning*
 
-<br/><br/>
-
-<img width="90%" src="https://github-profile-trophy.vercel.app/?username=daussfajar&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8" />
-
-</div>
-
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=daussfajar&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph" />
-
-<br/>
-
-<!-- Snake animation — butuh GitHub Action, lihat catatan di bawah -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/daussfajar/daussfajar/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/daussfajar/daussfajar/output/github-snake.svg" />
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/daussfajar/daussfajar/output/github-snake.svg" />
-</picture>
-
-</div>
+> **"The best way out is always through."**
+> <br/>— Robert Frost
 
 ---
 
+## Let's Connect
+
+I'm always open to interesting conversations, collaboration, and new opportunities. Reach out through any of the channels below.
+
 <div align="center">
 
-### 💡 Dev Quote
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daussfajar28/)
+[![Portfolio](https://img.shields.io/badge/View_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://daussfajar.github.io/)
+[![Email](https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:daussfajar28@gmail.com)
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+<br/>
 
-<br/><br/>
-
-**Thanks for visiting! Have a great day 👋**
+**Thank you for visiting.**
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=120&section=footer" />
 
