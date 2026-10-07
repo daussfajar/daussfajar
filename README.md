@@ -94,27 +94,6 @@ const fajar = {
 
 </div>
 
----
-
-## Words I Keep Coming Back To
-
-> **"The impediment to action advances action. What stands in the way becomes the way."**
-> <br/>— Marcus Aurelius, *Meditations*
-
-> **"Perfection is achieved, not when there is nothing more to add, but when there is nothing left to take away."**
-> <br/>— Antoine de Saint-Exupéry, *Terre des Hommes*
-
-> **"We are what we repeatedly do. Excellence, then, is not an act, but a habit."**
-> <br/>— Will Durant, *The Story of Philosophy*
-
-> **"When we are no longer able to change a situation, we are challenged to change ourselves."**
-> <br/>— Viktor E. Frankl, *Man's Search for Meaning*
-
-> **"The best way out is always through."**
-> <br/>— Robert Frost
-
----
-
 ## Let's Connect
 
 I'm always open to interesting conversations, collaboration, and new opportunities. Reach out through any of the channels below.
