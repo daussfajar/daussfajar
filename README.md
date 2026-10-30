@@ -1,61 +1,42 @@
-<a href="https://daussfajar.github.io/">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.png" />
-    <img src="assets/header-light.png" alt="Fajar Firdaus, Back-end Developer at Pusat Gadai Indonesia" width="100%" />
-  </picture>
-</a>
+## GitHub stats
 
-I build the internal systems organizations run on. Since 2019 I've worked across the stack at Universitas Pembangunan Jaya, Erajaya Swasembada and Pusat Gadai Indonesia, on everything from budgeting and HR to asset management and procurement.
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=daussfajar&background=00000000&hide_border=true&ring=A8B4F0&fire=A8B4F0&currStreakNum=E6E9F3&currStreakLabel=A8B4F0&sideNums=E6E9F3&sideLabels=E6E9F3&dates=9AA0B4&stroke=2A2E3F" />
+  <img src="https://streak-stats.demolab.com?user=daussfajar&background=00000000&hide_border=true&ring=303F88&fire=303F88&currStreakNum=171A2C&currStreakLabel=303F88&sideNums=171A2C&sideLabels=171A2C&dates=565B6D&stroke=D9DCE6" alt="GitHub stats: total contributions, current streak and longest streak" />
+</picture>
 
-[View my CV](https://daussfajar.github.io/) · [Download PDF](https://daussfajar.github.io/Fajar-Resume.pdf) · [LinkedIn](https://www.linkedin.com/in/daussfajar28/) · [Email](mailto:daussfajar28@gmail.com)
+## Skills
 
-## Now
+**Languages**
 
-- **Working on:** Laravel back-end services for General Affairs systems
-- **Learning:** Python, TypeScript and Go
-- **Open to:** open source collaboration and freelance work
-- **Happy to talk about:** API design, database modeling, authentication (JWT, PASETO) and deployment workflows
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts%2Cjs%2Cphp%2Cgo%2Cpy%2Cdart%2Cjava&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=ts%2Cjs%2Cphp%2Cgo%2Cpy%2Cdart%2Cjava&theme=light" alt="TypeScript, JavaScript, PHP, Go, Python, Dart, Java" />
+</picture>
 
-## Experience
+**Back-end**
 
-**Back-end Developer**, Pusat Gadai Indonesia<br>
-Apr 2025 – Present
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=laravel%2Cnestjs%2Cexpress%2Cspring&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=laravel%2Cnestjs%2Cexpress%2Cspring&theme=light" alt="Laravel, NestJS, Express.js, Spring Boot" />
+</picture>
 
-**GA Supervisor & Full-stack Developer**, Erajaya Swasembada, Tbk<br>
-Dec 2024 – Apr 2025
+Also CodeIgniter, Fiber and Gin.
 
-**Full-stack Developer**, Universitas Pembangunan Jaya<br>
-Oct 2019 – Dec 2024
+**Front-end & mobile**
 
-## Selected work
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=react%2Cnextjs%2Cvue%2Cnuxtjs%2Cflutter%2Ctailwind%2Cbootstrap&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=react%2Cnextjs%2Cvue%2Cnuxtjs%2Cflutter%2Ctailwind%2Cbootstrap&theme=light" alt="React, Next.js, Vue.js, Nuxt, Flutter, Tailwind CSS, Bootstrap" />
+</picture>
 
-**[Point of Sale (POS) System](https://app-staging.kamataichan.id/)** · Next.js<br>
-QR-code ordering for dine-in and pickup, with order tracking.
+**Data & infrastructure**
 
-**[E-Commerce Platform](https://m-one.online/)** · Next.js<br>
-Online store for M-1 tire sealants and workshop supplies.
-
-**Budget Disbursement System** · CodeIgniter, PHP, MySQL<br>
-Manages and monitors annual financial allocation.
-
-**Human Resource Management System** · CodeIgniter, PHP, MySQL<br>
-Attendance, leave requests and performance evaluation.
-
-**E-Office Management System** · CodeIgniter, PHP, MySQL<br>
-Facility booking, equipment lending and document submission.
-
-**Mentorship Platform** · Laravel, PHP, MySQL<br>
-Connects mentors and mentees through profiles and session scheduling.
-
-[See all 12 projects on my CV](https://daussfajar.github.io/#projects)
-
-## Tech stack
-
-- **Languages:** TypeScript, JavaScript, PHP, Go, Python, Dart, Java
-- **Back-end:** Laravel, CodeIgniter, NestJS, Express.js, Fiber, Gin, Spring Boot
-- **Front-end & mobile:** React, Next.js, Vue.js, Nuxt, Flutter, Tailwind CSS, Bootstrap
-- **Data & infrastructure:** MySQL, PostgreSQL, MongoDB, Redis, SQLite, Docker, Nginx, Git
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=mysql%2Cpostgres%2Cmongodb%2Credis%2Csqlite%2Cdocker%2Cnginx%2Cgit&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=mysql%2Cpostgres%2Cmongodb%2Credis%2Csqlite%2Cdocker%2Cnginx%2Cgit&theme=light" alt="MySQL, PostgreSQL, MongoDB, Redis, SQLite, Docker, Nginx, Git" />
+</picture>
 
 ---
 
-*Readable over clever. Simple over complete. Ship, then refine.*
+[CV](https://daussfajar.github.io/) · [LinkedIn](https://www.linkedin.com/in/daussfajar28/) · [Email](mailto:daussfajar28@gmail.com)
