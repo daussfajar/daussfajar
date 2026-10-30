@@ -18,22 +18,34 @@ I build the internal systems organizations run on. Since 2019 I've worked across
 
 ## Experience
 
-| Role | Company | Period |
-| --- | --- | --- |
-| Back-end Developer | Pusat Gadai Indonesia | Apr 2025 – Present |
-| GA Supervisor & Full-stack Developer | Erajaya Swasembada, Tbk | Dec 2024 – Apr 2025 |
-| Full-stack Developer | Universitas Pembangunan Jaya | Oct 2019 – Dec 2024 |
+**Back-end Developer**, Pusat Gadai Indonesia<br>
+Apr 2025 – Present
+
+**GA Supervisor & Full-stack Developer**, Erajaya Swasembada, Tbk<br>
+Dec 2024 – Apr 2025
+
+**Full-stack Developer**, Universitas Pembangunan Jaya<br>
+Oct 2019 – Dec 2024
 
 ## Selected work
 
-| Project | What it does | Stack |
-| --- | --- | --- |
-| [Point of Sale (POS) System](https://app-staging.kamataichan.id/) | QR-code ordering for dine-in and pickup, with order tracking | Next.js |
-| [E-Commerce Platform](https://m-one.online/) | Online store for M-1 tire sealants and workshop supplies | Next.js |
-| Budget Disbursement System | Manages and monitors annual financial allocation | CodeIgniter, PHP, MySQL |
-| Human Resource Management System | Attendance, leave requests and performance evaluation | CodeIgniter, PHP, MySQL |
-| E-Office Management System | Facility booking, equipment lending and document submission | CodeIgniter, PHP, MySQL |
-| Mentorship Platform | Connects mentors and mentees through profiles and session scheduling | Laravel, PHP, MySQL |
+**[Point of Sale (POS) System](https://app-staging.kamataichan.id/)** · Next.js<br>
+QR-code ordering for dine-in and pickup, with order tracking.
+
+**[E-Commerce Platform](https://m-one.online/)** · Next.js<br>
+Online store for M-1 tire sealants and workshop supplies.
+
+**Budget Disbursement System** · CodeIgniter, PHP, MySQL<br>
+Manages and monitors annual financial allocation.
+
+**Human Resource Management System** · CodeIgniter, PHP, MySQL<br>
+Attendance, leave requests and performance evaluation.
+
+**E-Office Management System** · CodeIgniter, PHP, MySQL<br>
+Facility booking, equipment lending and document submission.
+
+**Mentorship Platform** · Laravel, PHP, MySQL<br>
+Connects mentors and mentees through profiles and session scheduling.
 
 [See all 12 projects on my CV](https://daussfajar.github.io/#projects)
 
